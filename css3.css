@@ -1,0 +1,90 @@
+
+
+header {
+  border-style: solid;
+  text-align: left;
+  height: 100px;
+  width: 50%
+}
+
+#line1 {
+  text-align: left;
+  font-size: 25px;
+}
+
+nav {
+  display:inline;
+  float: left;
+  font-size: 25px;
+  border-style: solid;
+  height: 300px;
+  width: 50%;
+  margin-top: 10px;
+}
+
+#navTitle {
+  padding: 10px; 
+  float: 10px left;
+}
+
+#links {
+  float: 10px left;
+  margin-left: 20px;
+}
+
+li{
+  padding:15px;
+}
+
+
+home {
+  height:px;
+  width:50%;
+  float: left;
+  margin-top: 10px;
+}
+
+home #homep1 {
+  float: left;
+  width: 100%;
+  border-style: solid;
+  height: 50px;
+  margin-top: 5px
+
+}
+
+home #homep2 {
+  float: left;
+  width: 100%;
+  border-style: solid;
+  height: 50px;
+  margin-top: 0px;
+
+}
+
+home #homep3 {
+  float: left;
+  width: 100%;
+  border-style: solid;
+  height: 50px;
+  margin-top: 5px
+
+}
+
+
+sidebar {
+  float: left;
+  width: 50%;
+  border-style: solid;
+  height: 50px;
+
+}
+
+
+
+footer{
+  margin-top: 10px;
+  float: left;
+  width: 50%;
+  border-style: solid;
+  height: 100px;
